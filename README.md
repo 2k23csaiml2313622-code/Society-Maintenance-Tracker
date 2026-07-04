@@ -3,6 +3,14 @@
 A full-stack MERN-based Society Maintenance Tracker developed to simplify complaint management and society communication between Residents and Administrators.
 
 ---
+## 🚀 Live Demo
+
+- **Frontend:** https://society-maintenance-tracker-tawny.vercel.app/
+- **Backend API:** https://society-maintenance-tracker-3.onrender.com/
+
+ ## 📂 GitHub Repository
+
+https://github.com/2k23csaiml2313622-code/Society-Maintenance-Tracker
 
 ## 📌 Project Overview
 
